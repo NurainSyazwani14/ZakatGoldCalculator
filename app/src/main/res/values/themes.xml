@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ZakatGoldCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="android:textColorPrimary">@color/my_light_textColor</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="MyPopupTheme" parent="ThemeOverlay.Material3.Light">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+    <style name="Theme.ZakatGoldCalculator" parent="Base.Theme.ZakatGoldCalculator" />
+</resources>

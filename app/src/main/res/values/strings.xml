@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zakat Gold Calculator</string>
+    <string name="copyright">Copyright &#169; Nurain 2025</string>
+    <string name="about_text"> This is simple demo application demostrate the use of Menu in Android Mobile Application</string>
+</resources>

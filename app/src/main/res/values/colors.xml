@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#C18C00</color>
+    <color name="my_dark_primary">#FF9000</color>
+    <color name="my_light_textColor">#000000</color>
+    <color name="my_dark_textColor">#ffffff</color>
+    <color name="my_dark_background">#000000</color>
+    <color name="my_dark_ToolbarStyle">#999999</color>
+    <color name="light_background">#FFFFD9</color>
+    <color name="popup_background">#333333</color> <!-- Dark mode background -->
+    <color name="popup_text_color">#FFFFFF</color> <!-- Dark mode text -->
+
+
+
+</resources>
